@@ -1,3 +1,6 @@
 a - aunt
 b - bee
 c - cat
+d - dog
+e - end
+f - frog
